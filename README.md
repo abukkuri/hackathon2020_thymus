@@ -1,2 +1,2 @@
 # hackathon2020_thymus
-Models of Thymus (Involution)
+Models of Thymic involution: CompuCell3D Hackathon
